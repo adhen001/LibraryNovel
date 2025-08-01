@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430530011834",
+    "project_id": "librarynovel-79964",
+    "storage_bucket": "librarynovel-79964.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430530011834:android:a01f6e2bfa68228605d883",
+        "android_client_info": {
+          "package_name": "com.example.librarynovel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ggaWFwA6ZJICttjq6o53lDTAEcurvEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

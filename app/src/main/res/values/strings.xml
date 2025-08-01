@@ -1,0 +1,58 @@
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">LibraryNovel</string>
+
+    <!-- Cerita Sahabat Senja -->
+    <string name="cerita_sahabat_senja">
+        <![CDATA[
+        Bab 1: Senja yang Menyapa
+
+        Di sebuah senja yang lembut dan penuh harapan, dua sahabat lama bertemu kembali.
+        Angin berbisik pelan membawa aroma hujan yang hampir turun. Langit berwarna jingga
+        menciptakan lukisan alam yang menenangkan hati.
+
+        Mereka duduk di bangku taman, mengenang masa kecil, tertawa, dan kadang terdiam.
+        "Apakah kita masih sama seperti dulu?" tanya salah satu dari mereka.
+
+        Waktu berjalan pelan, namun perasaan itu tetap hangat. Di antara kata yang tak terucap,
+        senja menjadi saksi kisah yang tak selesai...
+        ]]>
+    </string>
+
+    <!-- Cerita Paralel Naif -->
+    <string name="cerita_paralel_naif">
+        <![CDATA[
+        Bab 1: Perjalanan Tak Terduga
+
+        Di dunia paralel yang tak terbayangkan, dua karakter yang berasal dari dunia berbeda
+        bertemu dalam keadaan yang sangat aneh. Mereka menyadari bahwa kehidupan mereka
+        saling terhubung, meskipun mereka tak pernah bertemu sebelumnya.
+
+        "Kamu dari dunia mana?" tanya si perempuan kepada pria yang baru saja ia temui.
+        "Aku dari dunia yang penuh dengan kebingungan," jawab pria itu dengan senyuman misterius.
+
+        Mereka menjalani perjalanan bersama, menghadapi tantangan yang tak terduga, dan berusaha
+        mencari tahu apa yang menghubungkan dunia mereka. Akan tetapi, semakin dalam mereka
+        menggali, semakin banyak pula rahasia yang terungkap tentang takdir mereka...
+        ]]>
+    </string>
+
+    <!-- Cerita You and Me -->
+    <string name="cerita_you_and_me">
+        <![CDATA[
+        Bab 1: Dua Hati yang Terpisah
+
+        Di sebuah kota yang sibuk, dua orang yang pernah saling mengenal kembali bertemu
+        setelah bertahun-tahun berpisah. Mereka tak pernah tahu bahwa pertemuan ini akan
+        mengubah segalanya.
+
+        "Aku tak pernah melupakanmu," ujar perempuan itu dengan lirih, menatap lelaki yang
+        sudah lama hilang dari hidupnya. "Begitu banyak hal yang telah terjadi..."
+
+        Mereka berdua mulai mengenang masa lalu yang pernah mereka lewati, dan tanpa sadar,
+        perasaan mereka yang lama terkubur pun mulai tumbuh kembali. Namun, tak mudah bagi
+        mereka untuk bersatu kembali. Apakah mereka akan bisa menjalani hubungan mereka
+        dengan cara yang berbeda kali ini?
+        ]]>
+    </string>
+</resources>
